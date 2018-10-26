@@ -11,3 +11,5 @@ To overcome this inconvenience the suggested workaround is to create a free deve
 I find this process a bit inconvenient and annoying, so I decided to generate one of each WSDL definitions from a newly created  developer organization and put it for everyone to use (me included).
 
 This way you can always inspect, download.
+
+Additional documentation on the Salesforce SOAP API can be found https://github.com/cfpb/salesforce-docs/blob/master/_pages/APIs-use-and-generation-in-general.md
