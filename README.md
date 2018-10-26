@@ -12,4 +12,4 @@ I find this process a bit inconvenient and annoying, so I decided to generate on
 
 This way you can always inspect, download.
 
-Additional documentation on the Salesforce SOAP API can be found https://github.com/cfpb/salesforce-docs/blob/master/_pages/APIs-use-and-generation-in-general.md
+Additional documentation on the Salesforce SOAP API can be found  [HERE] (https://github.com/cfpb/salesforce-docs/blob/master/_pages/APIs-use-and-generation-in-general.md)
